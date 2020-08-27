@@ -1,4 +1,4 @@
-let array = [6, 2, 3, 4, 5];
+let array = [8, 5, 4, 9, 7];
 
 function ocb(array) {
     console.log( array[0] );
